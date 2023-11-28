@@ -1,7 +1,7 @@
-1. Introduction to Dynamic Programming
-a. Definition and Overview
-b. Characteristics of problems suitable for dynamic programming
-c. When to use dynamic programming vs. other techniques
+# 1. Introduction to Dynamic Programming
+## a. Definition and Overview
+## b. Characteristics of problems suitable for dynamic programming
+## c. When to use dynamic programming vs. other techniques
 
 2. Basic Concepts
 a. Overlapping Subproblems
